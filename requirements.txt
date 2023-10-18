@@ -23,4 +23,4 @@ six==1.15.0
 sniffio==1.1.0
 soupsieve==2.0.1
 SpeechRecognition==3.8.1
-urllib3==1.26.5
+urllib3==1.26.18
