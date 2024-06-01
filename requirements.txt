@@ -12,7 +12,7 @@ hstspreload==2020.7.7
 httpcore==0.9.1
 httpx==0.23.0
 hyperframe==5.2.0
-idna==2.10
+idna==3.7
 playsound==1.2.2
 PyQt5==5.15.0
 PyQt5-sip==12.8.0
